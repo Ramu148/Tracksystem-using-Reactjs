@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tracksystem-using-Reactjs/static/css/main.9cb8af72.css",
+    "main.js": "/Tracksystem-using-Reactjs/static/js/main.826c9df4.js",
+    "index.html": "/Tracksystem-using-Reactjs/index.html",
+    "main.9cb8af72.css.map": "/Tracksystem-using-Reactjs/static/css/main.9cb8af72.css.map",
+    "main.826c9df4.js.map": "/Tracksystem-using-Reactjs/static/js/main.826c9df4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cb8af72.css",
+    "static/js/main.826c9df4.js"
+  ]
+}
